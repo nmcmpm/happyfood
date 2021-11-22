@@ -1,5 +1,3 @@
-
-database name  = happyfood 
-
-name table = postfood
-name table = users
+database name = happyfood
+table login and signup = users
+table post = postfood
